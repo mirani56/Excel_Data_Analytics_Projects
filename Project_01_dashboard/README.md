@@ -5,7 +5,8 @@ This project was created by following a YouTube tutorial as a learning resource.
 This is an Excel dashboard project focused on analyzing job salaries. The main goal of this project is to provide a clearer picture of salary ranges based on job type.    
 [Checkout my work here](project_1_dashboard)  
 
-![dashboard_demo](https://github.com/user-attachments/assets/c88dd3ff-2b50-4aa9-ba75-825f78b92e05)   
+![dashboard_demo](https://github.com/user-attachments/assets/f990af71-dedf-4614-b3c8-8068632efd18)  
+ 
 
 ## Excel Skills Used
 The following Excel skills were utilized for analysis:  
